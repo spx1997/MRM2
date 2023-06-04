@@ -1,5 +1,5 @@
 ## MRM2: Multi-Relationship Modeling Module for Multivariate Time Series Classification
-- MRM2 has been accepted as short paper by ICDM2022.
+- MRM2 has been accepted by ICDM2022.
 - The paper can be accessed on [this repository](./MRM2_ICDM.pdf).
 ### Overall of MRM2
 
